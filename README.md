@@ -29,7 +29,7 @@ This repository documents my setup and implementation of an AdGuard DNS sinkhole
 
 ### AdGuard Home Dashboard![539A0D8D-6873-4E6C-B748-4146485D9F08_1_105_c](https://github.com/user-attachments/assets/9829bc16-e803-49bb-9ca9-b4c7d26e5b7e)
 
-
+### Linux Terminal
 ![ADD37468-B632-46DE-8417-A8EC0785342E_1_105_c](https://github.com/user-attachments/assets/c486f587-3d37-407d-98ec-52c1a7cd4646)
 
 ### DNS Query Logs and Blocked Domains
